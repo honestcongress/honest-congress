@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# THE HONEST CONGRESS CAUCUS
 
 You can use the [editor on GitHub](https://github.com/honestcongress/honest-congress/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
